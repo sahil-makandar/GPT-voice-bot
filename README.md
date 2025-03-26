@@ -73,4 +73,3 @@ MIT
 For questions or support, please contact:
 - Email: mahaboobsab.goa@gmail.com
 - LinkedIn: [Mahaboobsab Makandar](https://www.linkedin.com/in/mahaboobsab-makandar)
-- GitHub: [sahil-makandar](https://github.com/sahil-makandar)
